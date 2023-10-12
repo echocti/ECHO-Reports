@@ -11,6 +11,7 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 ### APT Groups
 * [APT-41](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-41)
 * [LAZARUS](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/Lazarus)
+* [OilRig](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-34)
 
 ### Intelligence Reports
 * [Attack Report on Aviation Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Aviation%20Industry%202023)
