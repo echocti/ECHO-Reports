@@ -17,4 +17,4 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 ### Intelligence Reports
 * [Attack Report on Aviation Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Aviation%20Industry%202023)
 * [Attack Report on Energy Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Energy%20Industry%202023)
-* [Attack Report on Financial Industry (2023)](https://github.com/echocti/ECHO-Reports/blob/main/Intelligence%20Reports/Financial%20Sector%202023/Attack%20Report%20on%20Finance%20Industry.pdf)
+* [Attack Report on Financial Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Financial%20Sector%202023)
