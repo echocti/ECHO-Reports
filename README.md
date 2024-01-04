@@ -20,3 +20,4 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 * [Attack Report on Energy Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Energy%20Industry/2023)
 * [Attack Report on Financial Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Financial%20Sector/2023)
 * [Ransomwares in 2023](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Year%20Review%20Reports/Ransomware/2023)
+* [End of Year Report 2023](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Year%20Review%20Reports/End%20of%20Year/2023)
