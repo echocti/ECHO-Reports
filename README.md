@@ -16,7 +16,7 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 * [APT-37](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-37)
 
 ### Intelligence Reports
-* [Attack Report on Aviation Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Aviation%20Industry/2023)
+* [Attack Report on Aviation Industry (2023)](https://github.com/echocti/ECHO-Reports/blob/main/Intelligence%20Reports/Aviation%20Industry/2023/H2/)
 * [Attack Report on Energy Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Energy%20Industry/2023)
 * [Attack Report on Financial Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Financial%20Sector/2023)
 * [Ransomwares in 2023](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Year%20Review%20Reports/Ransomware/2023)
