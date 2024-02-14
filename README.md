@@ -8,6 +8,7 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 * [StealC](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/StealC)
 * [Rhadamanthys](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Rhdamanthys)
 * [LockBit 3.0](https://github.com/echocti/ECHO-Reports/blob/main/Malware%20Analysis%20Report/LockBit_3.0)
+* [Vidar](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Vidar)
 
 ### APT Groups
 * [APT-41](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-41)
