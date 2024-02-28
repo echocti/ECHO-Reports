@@ -9,6 +9,7 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 * [Rhadamanthys](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Rhdamanthys)
 * [LockBit 3.0](https://github.com/echocti/ECHO-Reports/blob/main/Malware%20Analysis%20Report/LockBit_3.0)
 * [Vidar](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Vidar)
+* [RaccoonStealer_V2.0](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/RaccoonStealer_V2.0)
 
 ### APT Groups
 * [APT-41](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-41)
