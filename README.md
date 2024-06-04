@@ -10,6 +10,8 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 * [Rhadamanthys](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Rhdamanthys)
 * [LockBit 3.0](https://github.com/echocti/ECHO-Reports/blob/main/Malware%20Analysis%20Report/LockBit_3.0)
 * [Vidar](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Vidar)
+* [Cash Ransomware](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Cash%20Ransomware)
+* [Agent Tesla](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Agent%20Tesla)
 
 ### APT Groups
 * [Turla](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/Turla)
