@@ -22,9 +22,8 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 * [APT-28](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-28)
 
 ### Intelligence Reports
-* [Attack Report on Aviation Industry (2024)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Aviation%20Industry/2024/H1)
-* [Attack Report on Aviation Industry (2023)](https://github.com/echocti/ECHO-Reports/blob/main/Intelligence%20Reports/Aviation%20Industry/2023/H2/)
-* [Attack Report on Energy Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Energy%20Industry/2023)
-* [Attack Report on Financial Industry (2023)](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Financial%20Sector/2023)
-* [Ransomwares in 2023](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Year%20Review%20Reports/Ransomware/2023)
-* [End of Year Report 2023](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Year%20Review%20Reports/End%20of%20Year/2023)
+
+|Year|Aviation Sector|Energy Sector|Financial Sector|Ransomware Spotlight|End of Year|
+|----|---------------|-------------|----------------|--------------------|-----------|
+|2023|[H1](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Aviation%20Industry/2023/H1) , [H2](https://github.com/echocti/ECHO-Reports/blob/main/Intelligence%20Reports/Aviation%20Industry/2023/H2/)|[All Year](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Energy%20Industry/2023)|[All Year](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Financial%20Sector/2023)|[Ransomwares in 2023](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Year%20Review%20Reports/Ransomware/2023)|[End of Year Report 2023](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Year%20Review%20Reports/End%20of%20Year/2023)|
+|2024|[H1](https://github.com/echocti/ECHO-Reports/tree/main/Intelligence%20Reports/Aviation%20Industry/2024/H1)|-|-|-|-|
