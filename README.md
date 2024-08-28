@@ -14,6 +14,7 @@ Bu repoda EchoCTI Malware takımı tarafından yazılmış tüm malware raporlar
 * [Agent Tesla](https://github.com/echocti/ECHO-Reports/tree/main/Malware%20Analysis%20Report/Agent%20Tesla)
 
 ### APT Groups
+* [APT-31](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-31)
 * [Turla](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/Turla)
 * [APT-41](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/APT-41)
 * [LAZARUS](https://github.com/echocti/ECHO-Reports/tree/main/APT%20Reports/Lazarus)
